@@ -1,0 +1,108 @@
+# Privacy Policy for StatsKey
+
+**Last Updated: August 7, 2025**
+
+## Introduction
+
+StatsKey ("we," "our," or "the app") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our nutrition and fitness tracking application.
+
+## Information We Collect
+
+### Personal Information
+- **Account Information**: Name, email address, age, gender when you create an account
+- **Authentication Data**: Apple ID or Google account identifiers for sign-in
+- **Profile Data**: Height, weight, fitness goals, dietary preferences
+
+### Health & Fitness Data
+- **Nutrition Data**: Meal photos, food descriptions, nutritional information
+- **Exercise Data**: Workout types, duration, calories burned, distance
+- **Body Metrics**: Weight, body fat percentage, muscle mass
+- **Health App Data**: Data synced with Apple HealthKit (with your permission)
+
+### Technical Data
+- **Device Information**: Device type, operating system version
+- **Usage Data**: App features used, interaction patterns
+- **Firebase Analytics**: Anonymous usage statistics
+
+## How We Use Your Information
+
+We use your information to:
+- Provide nutrition analysis and tracking services
+- Sync your data across devices
+- Calculate nutritional values and health metrics
+- Integrate with Apple Health (with permission)
+- Improve our services and app functionality
+- Send important updates about the service
+
+## Data Storage and Security
+
+### Cloud Storage
+- Your data is stored securely in Firebase/Google Cloud
+- All data is encrypted in transit and at rest
+- We use industry-standard security measures
+
+### Local Storage
+- Some data is cached locally on your device
+- Local data can be deleted by removing the app
+
+## Third-Party Services
+
+We use the following third-party services:
+- **Firebase/Google Cloud**: Authentication and data storage
+- **OpenAI API**: For AI-powered nutrition analysis
+- **Apple HealthKit**: Health data integration (optional)
+
+## Your Rights and Choices
+
+You have the right to:
+- Access your personal data
+- Update or correct your information
+- Delete your account and associated data
+- Opt-out of data collection features
+- Control HealthKit integration
+
+## Data Retention
+
+- Active account data is retained while you use the service
+- Deleted accounts are permanently removed within 30 days
+- Anonymized analytics data may be retained for improvement purposes
+
+## Children's Privacy
+
+StatsKey is not intended for users under 13 years of age. We do not knowingly collect data from children under 13.
+
+## Camera and Photo Usage
+
+- Camera access is used solely for meal photo capture
+- Photos are processed for nutrition analysis
+- Original photos can be deleted at any time
+- We do not share your photos with third parties
+
+## HealthKit Integration
+
+- HealthKit access is optional and requires your permission
+- You control which health data types we can read/write
+- HealthKit data is not sold or shared with third parties
+- You can revoke HealthKit access at any time in Settings
+
+## Contact Information
+
+For privacy concerns or questions, contact us at:
+- Email: privacy@statskey.app
+- Website: https://statskey.app/support
+
+## Changes to This Policy
+
+We may update this Privacy Policy periodically. We will notify you of any changes by updating the "Last Updated" date.
+
+## Consent
+
+By using StatsKey, you consent to this Privacy Policy.
+
+---
+
+**California Residents**: You have additional rights under CCPA. Contact us for more information.
+
+
+
+**European Users**: We comply with GDPR requirements. You have additional rights regarding your personal data.
